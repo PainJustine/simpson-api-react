@@ -1,0 +1,11 @@
+.Navbar {
+  background: lightseagreen;
+  padding: 1em 2em;
+}
+
+.Navbar * {
+  margin: 0;
+  color: rgba(0, 0, 0, 0.849);
+  display: flex;
+  justify-content: space-around;
+}
